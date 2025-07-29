@@ -3,7 +3,7 @@
 
 # 👋 I'm Xenon
 
-### I'm a Python and Javascript developer! I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+### I'm a Java and Javascript developer! I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - I'm currently working on [Komi](https://github.com/XenonDevZ/Komi)
 - I have been programming for 1 year!
