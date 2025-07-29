@@ -2,7 +2,7 @@
 <div align="center"><img src="https://media.discordapp.net/attachments/868558761952960512/892399507269124126/d0aaa016b8568efd0e6bcf3f3708d49c.gif"></div>
 
 # 👋 I'm Xenon and This git profile is for school purposes only!
-# You can check my  main Github Profile [Here](https://github.com/XenonDevZ)
+You can check my  main Github Profile [Here](https://github.com/XenonDevZ)
 
 ### I'm a Java and Javascript developer! I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
