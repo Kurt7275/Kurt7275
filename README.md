@@ -1,7 +1,8 @@
 # ＼(＾▽＾*) Hello!
 <div align="center"><img src="https://media.discordapp.net/attachments/868558761952960512/892399507269124126/d0aaa016b8568efd0e6bcf3f3708d49c.gif"></div>
 
-# 👋 I'm Xenon
+# 👋 I'm Xenon and This git profile is for school purposes only!
+# You can check my  main Github Profile [Here](https://github.com/XenonDevZ)
 
 ### I'm a Java and Javascript developer! I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
@@ -16,7 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
