@@ -19,7 +19,7 @@
 <div align="center">
 
   <h2 align="center"> (ᵕ—ᴗ—) My Contributions (Tapulan)</h2>
-    <img src="https://i.postimg.cc/d37BzLGv/contribution-linechart.png" alt="Contribution Graph" width="100%"/>
+    <img src="https://i.postimg.cc/HLZF1tZ0/D58C146C-0004-493B-BE45-E58FB0087AF9.png" alt="Contribution Graph" width="100%"/>
 </div>
 
 
