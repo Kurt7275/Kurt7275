@@ -1,3 +1,9 @@
+<div align="center">
+    <img src="https://i.postimg.cc/KzPDFGQ0/616D850A-A0C2-4278-9E1D-FEA12FE12DE1.png" width="100%" alt="Banner"/>
+  </a>
+</div>
+
+
 # ＼(＾▽＾*) Hello!
 <div align="center"><img src="https://media.discordapp.net/attachments/868558761952960512/892399507269124126/d0aaa016b8568efd0e6bcf3f3708d49c.gif"></div>
 
